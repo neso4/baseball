@@ -71,7 +71,6 @@
 * [[JAVA] 난수(랜덤 숫자) 생성 방법(Math.random, Random)](https://crazykim2.tistory.com/598)
 * [[JAVA] 자바_contains (문자열 포함 여부 확인)](https://mine-it-record.tistory.com/137)
 * [[Java] 문자열이 숫자인지 판별](https://pridiot.tistory.com/34)
-* [자바 enum 열거형 타입 문법 정리](https://inpa.tistory.com/entry/JAVA-%E2%98%95-%EC%97%B4%EA%B1%B0%ED%98%95Enum-%ED%83%80%EC%9E%85-%EB%AC%B8%EB%B2%95-%ED%99%9C%EC%9A%A9-%EC%A0%95%EB%A6%AC)
 
 </details>
 
@@ -82,7 +81,6 @@
 * [[OOP] 객체지향의 특징 - 캡슐화(Encapsulation)와 정보 은닉](https://blog.itcode.dev/posts/2021/08/08/encapulation)
 * [객체 지향 설계의 5가지 원칙 - S.O.L.I.D](https://inpa.tistory.com/entry/OOP-%F0%9F%92%A0-%EA%B0%9D%EC%B2%B4-%EC%A7%80%ED%96%A5-%EC%84%A4%EA%B3%84%EC%9D%98-5%EA%B0%80%EC%A7%80-%EC%9B%90%EC%B9%99-SOLID)
 * [완벽하게 이해하는 DIP (의존 역전 원칙)](https://inpa.tistory.com/entry/OOP-%F0%9F%92%A0-%EC%95%84%EC%A3%BC-%EC%89%BD%EA%B2%8C-%EC%9D%B4%ED%95%B4%ED%95%98%EB%8A%94-DIP-%EC%9D%98%EC%A1%B4-%EC%97%AD%EC%A0%84-%EC%9B%90%EC%B9%99)
-* [눈으로 보는 OOP](https://factual-session-a24.notion.site/OOP-6bd16f7647554dd1bcca0001da50b617)
 * [클린코드 강의 2. 추상화](https://ablue-1.tistory.com/81)
-* 
+
 </details>
