@@ -1,8 +1,10 @@
 package baseball.enumset;
 
-// 게임에서 사용되는 수치
+/**
+ * 게임에서 사용되는 수치
+ */
 public enum Range {
-    MAX_LENGTH(3), MAX_BOUND(9);
+    MAX_LENGTH(3), MAX_RANDOM_BOUND(9);
 
     private final int num;
 
